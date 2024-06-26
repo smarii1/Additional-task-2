@@ -1,0 +1,15 @@
+Alice: 87.5
+Bob: 87.5
+Charlie: 76.5
+David: 81.0
+Emily: 90.0
+Frank: 89.0
+Grace: 72.5
+Henry: 86.0
+Ivy: 79.0
+Jack: 94.0
+
+Highest Score: 95
+Lowest Score: 70
+Overall Average: 84.3
+Mode Score: 85
